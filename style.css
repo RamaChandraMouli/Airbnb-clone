@@ -111,13 +111,25 @@
     margin-left: 10px;
 }
 .vi{
-    padding: 10px;
-    border-radius: 15px;
-    height:50px;
-    width: 100px;
+    display:flex;
+    padding:20px 10px;
+    border-radius: 30px;
+    height:40px;
+    width: 80px;
     border-color: 1px solid gray;
+    bottom: 40px;
+    align-items: center;
+    gap:10px;
+    background-color: white;
 }
 .buck{
     margin-left: 250px;
+}
+.fr{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+.pf{
+    border-radius:50%;
 }
 
